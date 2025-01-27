@@ -1,11 +1,13 @@
 ---
-title: "armas"
+title: "La fuente de la estadística espacial"
+author: Oscar chullo Puclla
+lang: es
 format:
   html:
     toc: true
 ---
 
-## Quarto
+## la fuente de la estadística espacial
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 

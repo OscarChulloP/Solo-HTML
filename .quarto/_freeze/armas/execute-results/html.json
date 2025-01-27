@@ -1,8 +1,8 @@
 {
-  "hash": "f1b7ccd2adc3013f7f554fd260bfd7f6",
+  "hash": "88ed23c05b8f586ddff0b971daa58007",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"armas\"\nformat:\n  html:\n    toc: true\n---\n\n\n\n## Quarto\n\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "markdown": "---\ntitle: \"La fuente de la estadística espacial\"\nauthor: Oscar chullo Puclla\nlang: es\nformat:\n  html:\n    toc: true\n---\n\n\n\n## la fuente de la estadística espacial\n\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
     "supporting": [
       "armas_files"
     ],
